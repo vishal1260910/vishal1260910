@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishal1260910
-- 👀 I’m interested in ...C
-- 🌱 I’m currently learning ...C
-- 💞️ I’m looking to collaborate on ...C
+- 👀 I’m interested in ...C,Python,HTML,CSS,Javascript
+- 🌱 I’m currently learning ...HTML,CSS,Javascript
+- 💞️ I’m looking to collaborate on ...Anything
 - 📫 How to reach me ...
 
 <!---
